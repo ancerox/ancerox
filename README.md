@@ -1,16 +1,16 @@
 ## Hi there, I'm Winston! 🐱‍👤
 
-<img align="right" width="50%" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e474p51mchtkhk7ldb6mrd5e64wk1q2klbxwkl8ctbw&rid=giphy.gif">
+<img align="right" width="50%" src="https://wpblog.semaphoreci.com/wp-content/uploads/2021/05/06x4L85.gif">
 
 ### I'm Into 😎👌
 
 I'm 22 years old Self-taught Mobile Flutter developer from Dominican Republic 
 
-#### - 💻 Web Development, Software Development, Computer technician
+#### - 💻 Mobile Development, Software Development, Computer technician
 
-#### - 🥀 Learning Swift <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Ficonos-logotipos-emojis%2Fcompanias-technologicas%2Flogo-swift&psig=AOvVaw1sajmzzTIc2d5-3aM0u74v&ust=1650428449727000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCbm5-jn_cCFQAAAAAdAAAAABAD"></code>
+#### - 🥀 Learning Swift <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919833.png"></code>
 
-#### - 🎞 Chess player as a hobby
+#### - ♞ Chess player as a hobby
 
 #### - 💪 Exercise lover
 
