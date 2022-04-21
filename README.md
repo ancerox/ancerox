@@ -27,8 +27,10 @@ I'm 22 years old Self-taught Mobile Flutter developer from Dominican Republic
 <p align="center">
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/"/>
+<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2752187-2285004.png" />
+
 </p>
 
 <br />
