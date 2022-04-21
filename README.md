@@ -27,7 +27,7 @@ I'm 22 years old Self-taught Mobile Flutter developer from Dominican Republic
 <p align="center">
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 
@@ -37,7 +37,7 @@ I'm 22 years old Self-taught Mobile Flutter developer from Dominican Republic
 <details>
   <summary>:star: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eduard177&show_icons=true&theme=radical" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ancerox&show_icons=true&theme=radical" />
 
 </details>
 
